@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\22\source\repos\BankAccountingSystem\BankAccountingSystem\Source.cpp(14,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\22\source\repos\BankAccountingSystem\BankAccountingSystem\Source.cpp(46,19): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\22\source\repos\BankAccountingSystem\BankAccountingSystem\Source.cpp(47,16): warning C4244: 'return': conversion from '__int64' to 'double', possible loss of data
+C:\Users\22\source\repos\BankAccountingSystem\BankAccountingSystem\Source.cpp(51,27): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\22\source\repos\BankAccountingSystem\BankAccountingSystem\Source.cpp(52,15): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\22\source\repos\BankAccountingSystem\BankAccountingSystem\Source.cpp(56,19): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\22\source\repos\BankAccountingSystem\BankAccountingSystem\Source.cpp(57,16): warning C4244: 'return': conversion from '__int64' to 'double', possible loss of data
+C:\Users\22\source\repos\BankAccountingSystem\BankAccountingSystem\Source.cpp(61,27): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\22\source\repos\BankAccountingSystem\BankAccountingSystem\Source.cpp(62,15): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\22\source\repos\BankAccountingSystem\BankAccountingSystem\Source.cpp(1337,74): warning C4244: 'argument': conversion from '__int64' to 'double', possible loss of data
+C:\Users\22\source\repos\BankAccountingSystem\BankAccountingSystem\Source.cpp(1338,29): warning C4244: 'argument': conversion from '__int64' to 'double', possible loss of data
+C:\Users\22\source\repos\BankAccountingSystem\BankAccountingSystem\Source.cpp(1397,75): warning C4244: 'argument': conversion from '__int64' to 'double', possible loss of data
+C:\Users\22\source\repos\BankAccountingSystem\BankAccountingSystem\Source.cpp(1398,30): warning C4244: 'argument': conversion from '__int64' to 'double', possible loss of data
+  BankAccountingSystem.vcxproj -> C:\Users\22\source\repos\BankAccountingSystem\Debug\BankAccountingSystem.exe
